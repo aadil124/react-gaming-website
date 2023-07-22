@@ -1,5 +1,6 @@
 import React from 'react'
 import "../../src/"
+import footerBottomImg from "../assets/images/footer-bottom-img.png"
 
 const Footer = () => {
     return (
@@ -164,10 +165,10 @@ const Footer = () => {
                 <div class="container">
 
                     <p class="copyright">
-                        &copy; 2022 Gamics. All Right Reserved by <a href="/" class="copyright-link">codewithsadee</a>
+                        &copy; 2022 Gamics. All Right Reserved
                     </p>
 
-                    <img src="./assets/images/footer-bottom-img.png" width="340" height="21" loading="lazy" alt=""
+                    <img src={footerBottomImg} width="340" height="21" loading="lazy" alt=""
                         class="footer-bottom-img" />
 
                 </div>
