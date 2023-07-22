@@ -4,7 +4,7 @@ const Navbar = () => {
     return (
         <header class="header">
 
-            <div class="header-top">
+            {/* <div class="header-top">
                 <div class="container">
 
                     <div class="countdown-text">
@@ -46,12 +46,15 @@ const Navbar = () => {
                     </div>
 
                 </div>
-            </div>
+            </div> */}
 
             <div class="header-bottom skewBg" data-header>
                 <div class="container">
 
-                    <a href="/" class="logo">Gamics</a>
+                    <a href="/" class="logo">Pheixon
+                    <p style={{color:"black" , fontSize: "15px"}}>Its More Than Gaming</p>
+                    </a>
+                    
 
                     <nav class="navbar" data-navbar>
                         <ul class="navbar-list">

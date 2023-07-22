@@ -11,11 +11,12 @@ const Footer = () => {
 
                     <div class="footer-brand">
 
-                        <a href="/" class="logo">Gamics</a>
-
+                        <a href="/" class="logo">Pheixon
                         <p class="footer-text">
-                            Gamics marketplace the relase etras thats sheets continig passag.
+                        Its More Than Gaming !!!
                         </p>
+                        </a>
+
 
                         <ul class="contact-list">
 
@@ -25,7 +26,7 @@ const Footer = () => {
                                 </div>
 
                                 <address class="item-text">
-                                    Address : PO Box W75 Street lan West new queens
+                                    Address : Roshan Bagh Bhiwandi Thane Mumbai
                                 </address>
                             </li>
 
@@ -34,7 +35,7 @@ const Footer = () => {
                                     <ion-icon name="headset"></ion-icon>
                                 </div>
 
-                                <a href="/el:+241245654235" class="item-text">Phone : +24 1245 654 235</a>
+                                <a href="/el:+241245654235" class="item-text">Phone : +91 727 645 0124</a>
                             </li>
 
                             <li class="contact-item">
@@ -42,7 +43,7 @@ const Footer = () => {
                                     <ion-icon name="mail-open"></ion-icon>
                                 </div>
 
-                                <a href="/ailto:info@exemple.com" class="item-text">Email : info@exemple.com</a>
+                                <a href="/" class="item-text">Email : it.aadil124@gmail.com</a>
                             </li>
 
                         </ul>
@@ -56,19 +57,19 @@ const Footer = () => {
                         </li>
 
                         <li>
-                            <a href="/" class="footer-link">Graphics (26)</a>
+                            <a href="/" class="footer-link">Graphics (12)</a>
                         </li>
 
                         <li>
-                            <a href="/" class="footer-link">Backgrounds (11)</a>
+                            <a href="/" class="footer-link">Backgrounds (19)</a>
                         </li>
 
                         <li>
-                            <a href="/" class="footer-link">Fonts (9)</a>
+                            <a href="/" class="footer-link">Fonts (11)</a>
                         </li>
 
                         <li>
-                            <a href="/" class="footer-link">Music (3)</a>
+                            <a href="/" class="footer-link">Music (9)</a>
                         </li>
 
                         <li>
@@ -165,7 +166,7 @@ const Footer = () => {
                 <div class="container">
 
                     <p class="copyright">
-                        &copy; 2022 Gamics. All Right Reserved
+                        &copy; 2023 Pheixon. All Right Reserved by codewithadil
                     </p>
 
                     <img src={footerBottomImg} width="340" height="21" loading="lazy" alt=""
